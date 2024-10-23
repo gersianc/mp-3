@@ -57,7 +57,7 @@ export default function Home() {
                 <HeaderTitle>Home</HeaderTitle>
                 <HeaderSubTitle>Welcome to my resume website.</HeaderSubTitle>
             </Header>
-            <ProfileImage src="src/assets/profile.jpeg" alt="An image of me"/>
+            <ProfileImage src="/assets/profile.jpeg" alt="An image of me"/>
             <Paragraph>
                 Hello my name is Gersian Collaku and I am a senior at {" "}
                 <a href="https://www.bu.edu/" target="_blank">Boston University</a> {" "}

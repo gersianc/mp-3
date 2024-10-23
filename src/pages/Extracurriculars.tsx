@@ -118,10 +118,10 @@ export default function Extracurriculars() {
             </Description>
 
             <ImageContainer>
-                <ActivityImage src="src/assets/basketball.png" alt="Basketball" />
-                <ActivityImage src="src/assets/soccer.png" alt="Soccer" />
-                <ActivityImage src="src/assets/bucg.png" alt="BUCG Logo" />
-                <ActivityImage src="src/assets/albania.png" alt="Albanian Flag" />
+                <ActivityImage src="/assets/basketball.png" alt="Basketball" />
+                <ActivityImage src="/assets/soccer.png" alt="Soccer" />
+                <ActivityImage src="/assets/bucg.png" alt="BUCG Logo" />
+                <ActivityImage src="/assets/albania.png" alt="Albanian Flag" />
             </ImageContainer>
         </Main>
     );

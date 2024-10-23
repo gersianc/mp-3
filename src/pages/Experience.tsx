@@ -91,7 +91,7 @@ export default function Experience() {
                 {/* Metalogic Job Section */}
                 <Job>
                     <JobHeader><a href={"https://www.metalogicind.com/"} target ="_blank"> Metalogic Industries</a></JobHeader>
-                    <JobImage src="src/assets/metalogic.png" alt="Metalogic Logo" />
+                    <JobImage src="/assets/metalogic.png" alt="Metalogic Logo" />
                     <JobDetails>
                         Computer Numerical Control Operator<br />
                         <em>Nov 2020 - Present | Part-Time</em>
@@ -106,7 +106,7 @@ export default function Experience() {
                 {/* BU Job Section */}
                 <Job>
                     <JobHeader><a href={"https://www.bu.edu"} target = "_blank">Boston University</a></JobHeader>
-                    <JobImage src="src/assets/bu.png" alt="BU logo" />
+                    <JobImage src="/assets/bu.png" alt="BU logo" />
                     <JobDetails>
                         Mailroom Assistant<br />
                         <em>Sep 2023 - Present | Part-Time</em>
